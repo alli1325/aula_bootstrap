@@ -6,4 +6,14 @@
 }
 .margin {
     padding-top: 50px;
+    padding-bottom: 50px;
+}
+.parceiros {
+    background-color: #48C9B0;
+}
+.servicos{
+    background-color: #E5E8E8;
+}
+.bg-footer{
+    background-color: black;
 }
